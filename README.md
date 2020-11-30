@@ -1,0 +1,66 @@
+Файл event\1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json\
+Проверен по схеме label_selected\
+Ошибка в ключе: ['Data']. 'unique_id' is a required property\
+Ошибка в ключе: ['Data']. 'user' is a required property\
+Ошибка в ключе: ['Data']. 'user_id' is a required property\
+\
+Файл event\297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json\
+Проверен по схеме sleep_created\
+Ошибка в ключе: ['Data']['type_ranges', 29]. 'type' is a required property\
+Ошибка в ключе: ['Data']['type_ranges', 31]. 'type' is a required property\
+Ошибка в ключе: ['Data']['type_ranges', 33]. 'type' is a required property\
+\
+Файл event\29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json\
+Файл не содержит данных\
+Подходящая схема не найдена\
+\
+Файл event\2e8ffd3c-dbda-42df-9901-b7a30869511a.json\
+Подходящая схема не найдена\
+\
+Файл event\3ade063d-d1b9-453f-85b4-dda7bfda4711.json\
+Подходящая схема не найдена\
+\
+Файл event\3b4088ef-7521-4114-ac56-57c68632d431.json\
+Проверен по схеме cmarker_created\
+Ошибок нет\
+\
+Файл event\6b1984e5-4092-4279-9dce-bdaa831c7932.json\
+Подходящая схема не найдена\
+\
+Файл event\a95d845c-8d9e-4e07-8948-275167643a40.json\
+Файл не содержит ключа ['event'], невозможно определить соответствующую схему\
+Подходящая схема не найдена\
+\
+Файл event\ba25151c-914f-4f47-909a-7a65a6339f34.json\
+Ошибка в ключе ['event']. Неправильное название схемы\
+Проверен по схеме label_selected\
+Ошибка в ключе: ['Data']. 'rr_id' is a required property\
+Ошибка в ключе: ['Data']. 'unique_id' is a required property\
+\
+Файл event\bb998113-bc02-4cd1-9410-d9ae94f53eb0.json\
+Проверен по схеме sleep_created\
+Ошибка в ключе: ['Data']. 'unique_id' is a required property\
+\
+Файл event\c72d21cf-1152-4d8e-b649-e198149d5bbb.json\
+Подходящая схема не найдена\
+\
+Файл event\cc07e442-7986-4714-8fc2-ac2256690a90.json\
+Проверен по схеме label_selected\
+Ошибка в ключе: ['Data']. None is not of type 'object'\
+\
+Файл event\e2d760c3-7e10-4464-ab22-7fda6b5e2562.json\
+Проверен по схеме cmarker_created\
+Ошибка в ключе: ['Data']['user_id']. 'bad user id' is not of type 'integer'\
+\
+Файл event\f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json\
+Проверен по схеме sleep_created\
+Ошибок нет\
+\
+Файл event\fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json\
+Проверен по схеме cmarker_created\
+Ошибка в ключе: ['Data']. 'cmarkers' is a required property\
+\
+Файл event\ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json\
+Проверен по схеме cmarker_created\
+Ошибка в ключе: ['Data']['user_id']. None is not of type 'integer'\
+Ошибка в ключе: ['Data']['cmarkers']. 'suprt marker' is not of type 'array'\
